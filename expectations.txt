@@ -2,3 +2,5 @@ Reyes, Erix Laud B.
 CMSC 100 UV4L
 
 In this course, I expect to learn more about fullstack development. I already anticipate the tedious syntax for frontend development, but I hope to learn more about backend development namely JavaScript, as I plan to improve my efficiency in said language. I want to learn more about the theoretical side of web programming, to further expand my skillset and efficiency when creating web pages.
+
+jsacayanan: I also would like to learn more about backend development as I have very little experience yet on this. I also expect that this course would somehow require siginificant amount of time and effort to be able to understand the lessons.
